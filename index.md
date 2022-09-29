@@ -35,10 +35,10 @@
 20. Public Speaking
 
 ## Travel
--[x] Japan
--[x] Hong Kong
--[] Italy
--[] South Korea
+- [x] Japan
+- [x] Hong Kong
+- [] Italy
+- [] South Korea
 
 ## The Secret Message
 ```
