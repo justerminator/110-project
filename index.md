@@ -37,8 +37,8 @@
 ## Travel
 - [x] Japan
 - [x] Hong Kong
--  Italy
--  South Korea
+- Italy
+- South Korea
 
 ## The Secret Message
 ```
