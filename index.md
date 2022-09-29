@@ -1,6 +1,6 @@
 # Justin Lau's User Page
 
-theme:minima
+theme: minima
 
 > **Life is a road filled with bumps and detours**
 
