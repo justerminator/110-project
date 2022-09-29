@@ -4,11 +4,44 @@
 
 [Click to View Photo](#Photo)
 
+[View my README.md File](README.md)
+
+## Personal Amusements
+- Paddleboarding
+- Piano
+- Sightseeing
+- Roller coasters
+  
+## Dislikes (From most to least hated)
+1. Durian
+2. Bittermelon
+3. Roaches
+4. Unbehaved Children
+5. Bullying
+6. Rudeness
+7. Large Groups
+8. Skipping meals
+9. Being Late
+10. Boredom
+11. Dentist
+12. MATH 20B
+13. CHEM 126B
+14. Hatred
+15. Tiredness
+16. Foul Odors
+17. Traffic
+18. Beer
+19. Ignorance
+20. Public Speaking
+
+
+
+## The Secret Message
 ```
 myString = "icup"
 
 result = list(myString)
-for i in range(9):
+for i in range(len(myString)):
     print(result[i])
 
 ```
