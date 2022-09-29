@@ -3,7 +3,13 @@
 > **Life is a road filled with bumps and detours**
 
 ```
+myString = "icup"
+
+result = list(myString)
 for i in range(9):
-    i += 1
+    print(myString[i])
 
 ```
+
+My favorite restaurant is [Havana Grill](https://www.havanagrillrestaurants.com/)
+
