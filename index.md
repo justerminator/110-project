@@ -11,5 +11,5 @@ for i in range(9):
 
 ```
 
-My favorite restaurant is [Havana Grill](https://www.havanagrillrestaurants.com/)
+My favorite restaurant is [Havana Grill](https://www.havanagrillrestaurants.com/).
 
