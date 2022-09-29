@@ -2,6 +2,8 @@
 
 > **Life is a road filled with bumps and detours**
 
+[Click to View Photo](#Photo)
+
 ```
 myString = "icup"
 
@@ -15,5 +17,6 @@ for i in range(9):
 ## Food
 My favorite restaurant is [Havana Grill](https://www.havanagrillrestaurants.com/).
 
-require "Food"
 
+## Photo
+![](FE28B4F4-526C-4C92-83ED-F1B4050CDCB3.JPG)
