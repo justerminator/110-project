@@ -1,5 +1,7 @@
 # Justin Lau's User Page
 
+theme:minima
+
 > **Life is a road filled with bumps and detours**
 
 [Click to View Photo](#Photo)
