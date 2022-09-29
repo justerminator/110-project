@@ -13,12 +13,12 @@
 - Roller coasters
   
 ## Dislikes (From most to least hated)
-1. Durian
-2. Bittermelon
+1. Rudeness
+2. Bullying
 3. Roaches
 4. Unbehaved Children
-5. Bullying
-6. Rudeness
+5. Bittermelon
+6. Durian
 7. Large Groups
 8. Skipping meals
 9. Being Late
